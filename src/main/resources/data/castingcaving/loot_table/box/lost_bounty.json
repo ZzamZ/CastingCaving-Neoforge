@@ -1,0 +1,337 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 27,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:kelp",
+          "weight": 200,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:seagrass",
+          "weight": 200,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cooked_cod",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_ingot",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_ingot",
+          "weight": 100
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nugget",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 11
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 150,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 11
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:diamond",
+          "weight": 35
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:amethyst_shard",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tnt",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:emerald_shard",
+          "weight": 45,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 5
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:ocean_geode",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:axolotl_bucket",
+          "weight": 12
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nautilus_shell",
+          "weight": 35
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pufferfish_bucket",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tropical_fish_bucket",
+          "weight": 15
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:tadpole_bucket",
+          "weight": 12
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 25
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:heart_of_the_sea",
+          "weight": 8
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:scaffinity",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:tide",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:howling",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:dog",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:halland",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:angler_armor_trim_smithing_template",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:opal",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:aquamarine",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:peridot",
+          "weight": 50,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 8
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:prismatic_shard",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:emerald_shard",
+          "weight": 30,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:totem_of_returning",
+          "weight": 5
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marlin_lance",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_bubble",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_helmet",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_chestplate",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_leggings",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_boots",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_hoe",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:fisherman_hat",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:pirate_hat",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:item",
+          "name": "castingcaving:marine_sapling",
+          "weight": 12
+        }
+      ]
+    }
+  ]
+}

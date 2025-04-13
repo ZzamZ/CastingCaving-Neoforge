@@ -1,0 +1,6 @@
+{
+  "parent": "castingcaving:item/netherite_fishing_rod",
+  "textures": {
+    "layer0": "castingcaving:item/netherite_fishing_rod_cast"
+  }
+}

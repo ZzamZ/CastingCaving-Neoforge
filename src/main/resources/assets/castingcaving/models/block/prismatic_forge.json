@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "castingcaving:block/prismatic_forge_bottom",
+    "east": "castingcaving:block/prismatic_forge_side",
+    "north": "castingcaving:block/prismatic_forge_front",
+    "particle": "castingcaving:block/prismatic_forge_side",
+    "south": "castingcaving:block/prismatic_forge_front",
+    "up": "castingcaving:block/prismatic_forge_top",
+    "west": "castingcaving:block/prismatic_forge_side"
+  }
+}

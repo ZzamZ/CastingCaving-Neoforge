@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "castingcaving:block/echo_froglight_top",
+    "side": "castingcaving:block/echo_froglight_side"
+  }
+}

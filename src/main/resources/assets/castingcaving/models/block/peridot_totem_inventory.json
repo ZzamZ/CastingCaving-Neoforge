@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "castingcaving:block/peridot_totem_top",
+    "up": "castingcaving:block/peridot_totem_top",
+    "north": "castingcaving:block/peridot_totem_left",
+    "south": "castingcaving:block/peridot_totem_right",
+    "west": "castingcaving:block/peridot_totem_back",
+    "east": "castingcaving:block/peridot_totem_front",
+    "particle": "castingcaving:block/peridot_totem_left"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "castingcaving:block/aquamarine_totem_top",
+    "up": "castingcaving:block/aquamarine_totem_top",
+    "north": "castingcaving:block/aquamarine_totem_front",
+    "south": "castingcaving:block/aquamarine_totem_right",
+    "west": "castingcaving:block/aquamarine_totem_back",
+    "east": "castingcaving:block/aquamarine_totem_left",
+    "particle": "castingcaving:block/aquamarine_totem_front"
+  }
+}

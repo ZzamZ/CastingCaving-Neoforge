@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "castingcaving:block/emerald_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "castingcaving:block/emerald_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "castingcaving:block/emerald_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "castingcaving:block/emerald_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "castingcaving:block/emerald_cluster"
+    },
+    "facing=west": {
+      "model": "castingcaving:block/emerald_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

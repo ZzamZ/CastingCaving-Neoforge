@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "castingcaving:block/arcade_machine" },
+    "facing=south": { "model": "castingcaving:block/arcade_machine", "y": 180 },
+    "facing=west": { "model": "castingcaving:block/arcade_machine", "y": 270 },
+    "facing=east": { "model": "castingcaving:block/arcade_machine", "y": 90 }
+  }
+}

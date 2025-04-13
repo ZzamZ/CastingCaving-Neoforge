@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "castingcaving:block/medium_emerald_bud",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "castingcaving:block/medium_emerald_bud",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "castingcaving:block/medium_emerald_bud",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "castingcaving:block/medium_emerald_bud",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "castingcaving:block/medium_emerald_bud"
+    },
+    "facing=west": {
+      "model": "castingcaving:block/medium_emerald_bud",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

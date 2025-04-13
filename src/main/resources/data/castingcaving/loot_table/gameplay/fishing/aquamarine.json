@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:fishing",
+  "_comment": "Do not add anything to this loot table, besides Lost Bounty",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "type": "castingcaving:lost_bounty",
+              "entries": [
+                {
+                  "type": "minecraft:loot_table",
+                  "name": "castingcaving:box/lost_bounty"
+                }
+              ]
+            }
+          ],
+          "name": "castingcaving:lost_bounty"
+        },
+        {
+          "_comment": "33% chance of getting vanilla treasure, to make Neptunium rarer without making vanilla loot a lot rarer",
+          "type": "minecraft:loot_table",
+          "name": "minecraft:gameplay/fishing/treasure"
+        },
+        {
+          "_comment": "33% chance of getting a aquamarine",
+          "type": "minecraft:item",
+          "name": "castingcaving:aquamarine"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "castingcaving:gameplay/fishing/aquamarine"
+}

@@ -1,0 +1,5 @@
+{
+    "sources": [
+        { "type": "single", "resource": "castingcaving:entity/tileentity/lost_bounty" }
+    ]
+}

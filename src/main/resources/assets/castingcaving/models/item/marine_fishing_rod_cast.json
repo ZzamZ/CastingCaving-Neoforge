@@ -1,0 +1,6 @@
+{
+  "parent": "castingcaving:item/marine_fishing_rod",
+  "textures": {
+    "layer0": "castingcaving:item/marine_fishing_rod_cast"
+  }
+}

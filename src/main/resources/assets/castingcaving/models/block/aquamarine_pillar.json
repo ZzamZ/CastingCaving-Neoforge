@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "castingcaving:block/aquamarine_totem_top",
+    "side": "castingcaving:block/aquamarine_totem_back"
+  }
+}

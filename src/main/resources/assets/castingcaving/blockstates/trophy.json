@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "castingcaving:block/trophy" },
+    "facing=south": { "model": "castingcaving:block/trophy", "y": 180 },
+    "facing=west": { "model": "castingcaving:block/trophy", "y": 270 },
+    "facing=east": { "model": "castingcaving:block/trophy", "y": 90 }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "cast": {"sounds": ["castingcaving:cast"]},
+  "complete": {"sounds": ["castingcaving:complete"]},
+  "fish_bite": {"sounds": ["castingcaving:fish_bite"]},
+  "pull_item": {"sounds": ["castingcaving:pull_item"]},
+  "collect": {"sounds": ["castingcaving:collect"]},
+  "warp": {"sounds": ["castingcaving:warp"]},
+  "totem": {"sounds": ["castingcaving:totem"]},
+  "dog": {"sounds": [{"name": "castingcaving:dog", "stream": true}]},
+  "halland": {"sounds": [{"name": "castingcaving:halland", "stream": true}]},
+  "howling": {"sounds": [{"name": "castingcaving:howling", "stream": true}]}
+}

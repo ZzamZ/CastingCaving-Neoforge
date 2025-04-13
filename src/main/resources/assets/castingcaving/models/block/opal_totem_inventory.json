@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "castingcaving:block/opal_totem_top",
+    "up": "castingcaving:block/opal_totem_top",
+    "north": "castingcaving:block/opal_totem_left",
+    "south": "castingcaving:block/opal_totem_right",
+    "west": "castingcaving:block/opal_totem_back",
+    "east": "castingcaving:block/opal_totem_front",
+    "particle": "castingcaving:block/opal_totem_left"
+  }
+}
